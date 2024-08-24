@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodDonation</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Donate Food, Spread Love </string>
+    <string name="nav_header_subtitle">"Nourish Hearts, Feed Hope: Spread Love"</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Info</string>
+    <string name="menu_slideshow">About Us</string>
+    <string name="appwidget_text">Donate Love</string>
+    <string name="appwidget_text2">Donate Love</string>
+    <string name="add_widget">Add</string>
+    <string name="app_widget_description">"Stay informed and make a difference: Track available food donations with our widget at your fingertips."</string>
+    <string name="app_widget_description2">"Stay informed and make a difference: Track available food donations with our widget at your fingertips."</string>
+    <string name="mapApi">AIzaSyDa--67ZamwTXOBXiGk-WwoqFRYHXFz1qA</string>
+    <string name="configure">Choose Your City</string>
+</resources>
